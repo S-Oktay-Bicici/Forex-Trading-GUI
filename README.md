@@ -1,2 +1,2 @@
 # Forex-Trading-GUI
-Tkinter Kütüphanesi ile Forex Trading GUI Projesi
+Tkinter Kütüphanesi kullanarak Tradin analizi kullanıcı arayaüzü projesi.
